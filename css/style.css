@@ -1,0 +1,117 @@
+body {
+	background: black;
+}
+
+.nav-wrapper {
+	background: #BE090D;
+}
+
+.page-footer {
+	background: #BE090D;
+}
+img {
+	width: 100%;
+}
+
+.gallery {
+	max-width: absolute;
+	padding-top: 50px;
+}
+
+.description {
+	color: white;
+	padding: 20px 60px 20px ;
+	font-size: 20px;
+	text-align: justify;
+	font-family: "Montserrat";
+}
+
+.nav_menu {
+	position: fixed;
+	z-index: 1;
+}
+
+
+.black-text {
+	font-size: 20px;
+	font-family: "Montserrat";
+	font-weight: 700;
+}
+
+.brand-logo {
+	margin-left: 20px;
+	font-family: "Montserrat";
+	font-weight: 900;
+}
+
+.footer-links {
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.red-info {
+	color: #BE090D;
+	font-weight: 700;
+	font-family: "Montserrat";
+}
+
+.container {
+	color: black;
+	font-family: "Montserrat";
+}
+
+.sources-title {
+	font-weight: 700;
+	font-size: 30px;
+	font-family: "Montserrat";
+}
+
+
+.footer-name {
+	font-weight: 700;
+	font-family: "Montserrat";
+}
+
+.footer-main-text {
+	font-family: "Montserrat";
+}
+
+.page-2-title {
+	color: white;
+	text-align: center;
+	font-family: "Montserrat";
+	font-weight: 700;
+	padding-top: 12px;
+}
+
+td {
+	width: 50%;
+}
+
+.equip-img {
+	padding: 10px;
+	border-radius: 30px;
+}
+
+.gallery_mobile {
+	max-width: 600px;
+}
+
+.gallery_bike {
+	max-width: 600px;
+}
+
+.entrys-style {
+	color: #BE090D;
+	font-family: "Montserrat";
+	padding-left: 55px;
+	font-weight: 700;
+}
+
+.invest-img {
+	padding: 10px;
+	border-radius: 30px;
+	max-width: 600px;
+}
+
+
